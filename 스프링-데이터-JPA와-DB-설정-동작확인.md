@@ -22,6 +22,8 @@ logging.level:
 #  org.hibernate.type: trace
 ```
 
+![image](https://user-images.githubusercontent.com/79301439/185176696-23719fec-eea2-4204-aca3-17a6a7412aad.png)
+
 ![image](https://user-images.githubusercontent.com/79301439/185174707-8d5cbad7-4935-42b0-ac85-782cf307ff08.png)
 
 ![image](https://user-images.githubusercontent.com/79301439/185174761-f24c7225-44e7-433f-aeb6-82b2530e97ec.png)
@@ -111,7 +113,7 @@ class MemberJpaRepositoryTest {
 
         assertThat(findMember.getId()).isEqualTo(member.getId());
         assertThat(findMember.getUsername()).isEqualTo(member.getUsername());
-        assertThat(findMember).isEqualTo(member);
+        assertThat(findMember).isEqualTo(member); //JPA 엔티티 동일성 보장
     }
 }
 ```
@@ -158,7 +160,7 @@ class MemberRepositoryTest {
 
         assertThat(findMember.getId()).isEqualTo(member.getId());
         assertThat(findMember.getUsername()).isEqualTo(member.getUsername());
-        assertThat(findMember).isEqualTo(member);
+        assertThat(findMember).isEqualTo(member); //JPA 엔티티 동일성 보장
     }
 }
 ```
