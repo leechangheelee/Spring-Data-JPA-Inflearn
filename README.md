@@ -1,3 +1,6 @@
 # 실전! 스프링 데이터 JPA
   * 인프런 강의 수강 (업무활용)
   * https://www.inflearn.com/course/스프링-데이터-JPA-실전
+
+## **프로젝트 환경설정**
+![image](https://user-images.githubusercontent.com/79301439/185112958-d2ef2645-27e9-4520-b578-3ce595891c36.png)
