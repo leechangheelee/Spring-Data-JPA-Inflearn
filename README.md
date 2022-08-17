@@ -7,3 +7,4 @@
 
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/프로젝트-생성.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/라이브러리-살펴보기.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/H2-데이터베이스-설치.md
