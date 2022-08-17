@@ -4,3 +4,5 @@
 
 ## **프로젝트 환경설정**
 ![image](https://user-images.githubusercontent.com/79301439/185112958-d2ef2645-27e9-4520-b578-3ce595891c36.png)
+
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/프로젝트-생성.md
