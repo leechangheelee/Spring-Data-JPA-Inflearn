@@ -17,3 +17,5 @@
 
 ## **공통 인터페이스 기능**
 ![image](https://user-images.githubusercontent.com/79301439/185783812-0267dd0d-2ba0-4817-98fc-7c05f7ffc844.png)
+
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/순수-JPA-기반-리포지토리-만들기.md
