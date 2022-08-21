@@ -12,3 +12,5 @@
 
 ## **예제 도메인 모델**
 ![image](https://user-images.githubusercontent.com/79301439/185177333-5a58881d-cf00-44bb-8f71-661adbb4455a.png)
+
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/예제-도메인-모델과-동작확인.md
