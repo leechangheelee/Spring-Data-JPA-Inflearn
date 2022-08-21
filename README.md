@@ -21,3 +21,4 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/순수-JPA-기반-리포지토리-만들기.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/공통-인터페이스-설정.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/공통-인터페이스-적용.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/공통-인터페이스-분석.md
