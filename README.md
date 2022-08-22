@@ -28,3 +28,4 @@
 
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/메소드-이름으로-쿼리-생성.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/JPA-NamedQuery.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/@Query-리포지토리-메소드에-쿼리-정의하기.md
