@@ -27,3 +27,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/185787411-80cd2405-beeb-461f-a483-e1b98e86f276.png)
 
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/메소드-이름으로-쿼리-생성.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/JPA-NamedQuery.md
