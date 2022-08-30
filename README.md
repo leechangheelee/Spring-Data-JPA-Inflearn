@@ -33,3 +33,4 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/파라미터-바인딩.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/반환-타입.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/순수-JPA-페이징과-정렬.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/스프링-데이터-JPA-페이징과-정렬.md
