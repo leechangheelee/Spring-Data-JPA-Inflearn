@@ -32,3 +32,4 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/@Query-값-DTO-조회하기.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/파라미터-바인딩.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/반환-타입.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/순수-JPA-페이징과-정렬.md
