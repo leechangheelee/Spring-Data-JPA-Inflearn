@@ -31,3 +31,4 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/@Query-리포지토리-메소드에-쿼리-정의하기.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/@Query-값-DTO-조회하기.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/파라미터-바인딩.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/반환-타입.md
