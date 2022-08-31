@@ -35,3 +35,4 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/순수-JPA-페이징과-정렬.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/스프링-데이터-JPA-페이징과-정렬.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/벌크성-수정-쿼리.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/@EntityGraph.md
