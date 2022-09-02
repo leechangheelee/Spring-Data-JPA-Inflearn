@@ -182,6 +182,35 @@ public class BaseEntity extends BaseTimeEntity {
 }
 ```
 
+```java
+...
+class MemberTest {
+    ...
+    
+    @Test
+    public void JpaEventBaseEntity() throws Exception {
+        //given
+        Member member = new Member("member1");
+        memberRepository.save(member); //@PrePersist
+
+        Thread.sleep(100);
+        member.setUsername("member2");
+
+        em.flush(); //@PreUpdate
+        em.clear();
+
+        //when
+        Member findMember = memberRepository.findById(member.getId()).get();
+
+        //then
+        System.out.println("findMember.getCreatedDate = " + findMember.getCreatedDate());
+        System.out.println("findMember.getUpdatedDate = " + findMember.getLastModifiedDate());
+        System.out.println("findMember.getCreatedBy = " + findMember.getCreatedBy());
+        System.out.println("findMember.getLastModifiedBy = " + findMember.getLastModifiedBy());
+    }
+}
+```
+
 ![image](https://user-images.githubusercontent.com/79301439/188115867-d25bb81c-7171-4daf-9a0a-aa3fa5375661.png)
 
 ![image](https://user-images.githubusercontent.com/79301439/188116024-8bb1b45a-2c90-492a-99f9-2f0e3a873ee6.png)
