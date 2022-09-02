@@ -42,3 +42,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/188071779-01ce0111-b2f2-43ca-af89-e300e093b92a.png)
 
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/사용자-정의-리포지토리-구현.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Auditing.md
