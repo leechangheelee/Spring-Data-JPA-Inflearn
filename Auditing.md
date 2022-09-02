@@ -128,6 +128,13 @@ public class BaseEntity {
 }
 ```
 
+```java
+...
+public class Member extends BaseEntity {
+    ...
+}
+```
+
 ![image](https://user-images.githubusercontent.com/79301439/188115115-dcf90473-8097-4c86-9e8d-570a17c8f3b6.png)
 
 ```java
