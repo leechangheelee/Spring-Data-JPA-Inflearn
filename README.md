@@ -39,3 +39,4 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/JPA-Hint&Lock.md
   
 ## **확장 기능**
+![image](https://user-images.githubusercontent.com/79301439/188071779-01ce0111-b2f2-43ca-af89-e300e093b92a.png)
