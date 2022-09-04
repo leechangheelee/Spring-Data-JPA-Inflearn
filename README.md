@@ -50,3 +50,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/188302593-3725ccdd-2c6b-4efc-aa99-1efb11079b33.png)
 
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/스프링-데이터-JPA-구현체-분석.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/새로운-엔티티를-구별하는-방법.md
