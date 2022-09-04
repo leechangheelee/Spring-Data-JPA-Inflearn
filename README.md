@@ -54,3 +54,5 @@
 
 ## **나머지 기능들**
 ![image](https://user-images.githubusercontent.com/79301439/188304934-7f6c116f-aa92-4629-af94-bf13a5879f8d.png)
+
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Specifications.md
