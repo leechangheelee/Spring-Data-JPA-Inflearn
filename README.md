@@ -44,3 +44,4 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/사용자-정의-리포지토리-구현.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Auditing.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Web-확장-도메인-클래스-컨버터.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Web-확장-페이징과-정렬.md
