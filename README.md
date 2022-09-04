@@ -51,3 +51,6 @@
 
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/스프링-데이터-JPA-구현체-분석.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/새로운-엔티티를-구별하는-방법.md
+
+## **나머지 기능들**
+![image](https://user-images.githubusercontent.com/79301439/188304934-7f6c116f-aa92-4629-af94-bf13a5879f8d.png)
