@@ -45,3 +45,6 @@
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Auditing.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Web-확장-도메인-클래스-컨버터.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Web-확장-페이징과-정렬.md
+
+## **스프링 데이터 JPA 분석**
+![image](https://user-images.githubusercontent.com/79301439/188302593-3725ccdd-2c6b-4efc-aa99-1efb11079b33.png)
