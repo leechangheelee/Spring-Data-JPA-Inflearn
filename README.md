@@ -57,3 +57,4 @@
 
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Specifications.md
   * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Query-By-Example.md
+  * https://github.com/leechangheelee/Spring-Data-JPA-Inflearn/blob/main/Projections.md
